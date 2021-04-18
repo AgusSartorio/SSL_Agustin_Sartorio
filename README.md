@@ -1,1 +1,1 @@
-# SSL_Agustin_Sartorio Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
+# SSL_Agustin_Sartorio este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
